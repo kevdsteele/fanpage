@@ -97,6 +97,11 @@ display:table;
 clear:both;
 }
 
+.album-text{
+color:grey;
+font-weight:bold;
+font-size:16px;
+}
 .song-text{
  color:grey;	
 }
