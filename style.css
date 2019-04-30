@@ -99,6 +99,7 @@ width:960px;
 content:"";
 display:table;
 clear:both;
+margin 0 0 10px 0;	
 }
 
 .album-text{
