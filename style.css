@@ -99,7 +99,7 @@ clear:both;
     padding: 30px 0 30px 0;;
   text-align:center;
   background:black;
-  background-image: linear-gradient(snow, black);
+ background-image:linear-gradient(to bottom right, #EBC2D4, black);
 	color: white;
   font-size:16px;
   width:960px;
