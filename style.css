@@ -94,12 +94,14 @@ margin: 0 auto 0 auto;
   float:left;
   width:33.3%;
 }
-.song-row:after{
+.song-row {
 width:960px;
+margin 0 0 10px 0;
+}
+.song-row:after{
 content:"";
 display:table;
 clear:both;
-margin 0 0 10px 0;	
 }
 
 .album-text{
