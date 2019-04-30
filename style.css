@@ -97,6 +97,10 @@ display:table;
 clear:both;
 }
 
+.song-text{
+ color:grey;	
+}
+
 .footer {
     padding: 30px 0 30px 0;;
   text-align:center;
