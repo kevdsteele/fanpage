@@ -85,17 +85,7 @@ margin: 0 auto 0 auto;
 
 }
 
-.nav-column{
-  float:left;
-  width:25%;
-}
-.nav-row:after{
-margin 25px 0 25 0;
-	width:960px;
-content:"";
-display:table;
-clear:both;
-}
+
 .song-column{
   float:left;
   width:33.3%;
