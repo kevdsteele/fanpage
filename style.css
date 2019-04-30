@@ -83,13 +83,14 @@ margin: 0 auto 0 auto;
   width:960px;
   text-align:center;
   margin: 0 auto 0 auto;
+  color:grey;	
 }
 
 .more-songs-container {
   width:960px;
   text-align:center;
   margin: 0 auto 0 auto;
-
+  color:grey;
 }
 
 
@@ -106,13 +107,10 @@ clear:both;
 
 .album-text{
 margin:10px 0 0 0;
-color:grey;
 font-weight:bold;
 font-size:16px;
 }
-.song-text{
- color:grey;	
-}
+
 
 .footer {
     padding: 30px 0 30px 0;;
