@@ -90,7 +90,8 @@ margin: 0 auto 0 auto;
   width:25%;
 }
 .nav-row:after{
-width:960px;
+margin 25px 0 25 0;
+	width:960px;
 content:"";
 display:table;
 clear:both;
