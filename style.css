@@ -23,6 +23,11 @@ p {
 .album-art {
   border-radius:50%;
   border:5px solid black;
+	
+.bio {
+color:grey;
+line-height:normal;
+	}	
   
 }
 .button {
