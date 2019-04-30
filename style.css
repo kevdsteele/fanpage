@@ -22,6 +22,8 @@ p {
 
 .album-art {
   border-radius:50%;
+  border:5px;
+  border-color:#EBC5DA;
 }
 .button {
   background-color: white;
