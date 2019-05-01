@@ -14,6 +14,7 @@ hr{
   box-shadow: 0 0 10px 1px;
   margin: 15px auto 25px auto;
 }
+
 p {
   text-align:left;
 }
@@ -25,6 +26,26 @@ p {
   border:5px solid black;
   
 }
+
+.album-text{
+padding:40px 0 0 0;
+font-weight:bold;
+font-size:16px;
+}
+
+.band-photo {
+width:960px;
+}
+
+.bio-container {
+ color:grey;
+ line-height:1.6;
+ width:960px;
+ text-align:center;
+ margin: 0 auto 0 auto;
+
+}
+
 .button {
   background-color: white;
   border: 2px solid black;
@@ -44,6 +65,24 @@ color:white;
 font-size:20px;
 }
 
+.fav-song-container {
+  width:960px;
+  text-align:center;
+  margin: 0 auto 0 auto;
+  color:grey;	
+}
+
+.footer {
+ padding: 30px 0 30px 0;;
+ text-align:center;
+ background:black;
+ background-image:linear-gradient(to bottom right, #EBC2D4, black);
+ color: white;
+ font-size:16px;
+ width:960px;
+ height: 75px;
+ margin: 0 auto 0 auto;
+}
 
 .header {
   padding: 30px 0 30px 0;
@@ -62,26 +101,6 @@ font-size:20px;
 margin: 0 auto 0 auto;
 }
 
-.band-photo {
-	width:960px;
-}
-
-.bio-container {
- color:grey;
- line-height:1.6;
-  width:960px;
-  text-align:center;
-  margin: 0 auto 0 auto;
-	
-
-}
-.fav-song-container {
-  width:960px;
-  text-align:center;
-  margin: 0 auto 0 auto;
-  color:grey;	
-}
-
 .more-songs-container {
   width:960px;
   text-align:center;
@@ -89,36 +108,16 @@ margin: 0 auto 0 auto;
   color:grey;
 }
 
-
 .song-column{
   float:left;
   width:33.3%;
 }
-.song-row {
-width:960px;
-margin 0 0 10px 0;
-}
+
 .song-row:after{
 content:"";
 display:table;
 clear:both;
 }
 
-.album-text{
-padding:40px 0 0 0;
-font-weight:bold;
-font-size:16px;
-}
 
 
-.footer {
-    padding: 30px 0 30px 0;;
-  text-align:center;
-  background:black;
- background-image:linear-gradient(to bottom right, #EBC2D4, black);
-	color: white;
-  font-size:16px;
-  width:960px;
-  height: 75px;
-  margin: 0 auto 0 auto;
-}
