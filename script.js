@@ -4,13 +4,13 @@ function openWebLink() {
 }
 
 function openFavLink() {
-  location.href = '#Bio';
+  location.href = '#Bio-link';
 }
 
 function openMoreLink() {
- location.href = 'http://your.url.here';
+ location.href = '#Fav-link';
 }
 
 function openBioLink() {
-  location.href = 'http://your.url.here';
+  location.href = '#More-link';
 }
