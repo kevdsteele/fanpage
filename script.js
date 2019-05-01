@@ -1,6 +1,6 @@
 // Add your code here
 function openWebLink() {
-  window.open("https://the1975.com/northamerica/");
+  window.open("https://the1975.com");
 }
 
 function openFavLink() {
@@ -13,4 +13,8 @@ function openMoreLink() {
 
 function openBioLink() {
   location.href = '#More-link';
+}
+
+function openTourLink() {
+  window.open("https://the1975.com/northamerica/");
 }
