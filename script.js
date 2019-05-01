@@ -4,15 +4,15 @@ function openWebLink() {
 }
 
 function openFavLink() {
-  location.href = '#Bio-link';
+  location.href = '#Fav-link';
 }
 
 function openMoreLink() {
- location.href = '#Fav-link';
+ location.href = '#More-link';
 }
 
 function openBioLink() {
-  location.href = '#More-link';
+  location.href = '#Bio-link';
 }
 
 function openTourLink() {
